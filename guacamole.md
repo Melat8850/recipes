@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
 * avocado
-* lime
+* frech lime juice
 * salt
 ## Instructions
 An ill-considered change
